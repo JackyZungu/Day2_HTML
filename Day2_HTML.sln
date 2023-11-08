@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3CFEC1A1-49E9-475C-9B36-DD7F4841C1F3}"
+	ProjectSection(SolutionItems) = preProject
+		Form2.html = Form2.html
+		javascript.html = javascript.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {332DF3C8-54D3-4D2D-92DA-B550AE393F63}
+	EndGlobalSection
+EndGlobal
